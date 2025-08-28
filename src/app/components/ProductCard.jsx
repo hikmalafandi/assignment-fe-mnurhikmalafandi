@@ -8,7 +8,9 @@ export default function ProductCard({ product }) {
       />
       <h2 className="font-semibold text-lg line-clamp-2">{product.title}</h2>
       <p className="text-black font-medium mt-2">${product.price}</p>
-      <p className="text-black font-medium mt-2">{product.category}</p>
+      <span className="inline-block mt-2 px-3 py-1 text-sm rounded-full bg-gray-200 text-gray-700 font-medium">
+        {product.category}
+      </span>
     </div>
   );
 }

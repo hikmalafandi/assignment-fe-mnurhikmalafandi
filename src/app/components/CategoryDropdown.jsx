@@ -3,7 +3,7 @@
 export default function CategoryDropdown({ categories, value, onChange }) {
   return (
     <select
-      className="bg-gray-100 text-black rounded-xl p-3 
+      className="bg-[#F0F0F0] text-black rounded-xl p-3 
         mb-6 
         max-w-md 
         ml-2
@@ -33,5 +33,9 @@ export default function CategoryDropdown({ categories, value, onChange }) {
     </select>
   );
 }
+
+
+
+
 
 
