@@ -35,7 +35,10 @@ pnpm install
 # atau
 bun install
 
+```
+
 Untuk menjalankan aplikasi dalam mode pengembangan jalankan perintah berikut:
+```bash
 npm run dev
 # atau
 yarn dev
@@ -43,4 +46,5 @@ yarn dev
 pnpm dev
 # atau
 bun dev
+```
 
