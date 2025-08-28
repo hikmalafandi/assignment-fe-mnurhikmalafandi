@@ -18,8 +18,10 @@ Untuk memastikan node telah terinstall, jalankan perintah berikut:
 ```bash
 node -v
 npm -v
+```
 
 Untuk menjalankan project jalankan perintah berikut:
+```bash
 # Kloning repositori
 git clone <url-repositori>
 
