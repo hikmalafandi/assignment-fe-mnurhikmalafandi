@@ -2,6 +2,9 @@
 
 Proyek ini merupakan seleksi kompetensi bidang untuk mengikuti seleksi menjadi Frontend Programmer di Rumah Sakit Umum Daerah Cideres. 
 
+# Link Vercel
+[Klik untuk membuka project](https://assignment-fe-mnurhikmalafandi.vercel.app/)
+
 ## 📌 Prasyarat  
 
 Sebelum menjalankan proyek ini, pastikan perangkat Anda telah terpasang:  
