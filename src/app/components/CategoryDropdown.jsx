@@ -10,7 +10,7 @@ export default function CategoryDropdown({ categories, value, onChange }) {
         shadow-sm
         focus:outline-none 
         focus:ring-2 
-        focus:ring-blue-400
+        focus:ring-black
         cursor-pointer
         transition
         duration-200
@@ -22,7 +22,7 @@ export default function CategoryDropdown({ categories, value, onChange }) {
     >
       {/* Placeholder */}
       <option value="" disabled>
-        Pilih kategori...
+        Choose categories....
       </option>
 
       {categories.map((cat) => (
